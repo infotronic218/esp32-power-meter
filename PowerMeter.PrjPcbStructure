@@ -1,3 +1,2 @@
-Record=TopLevelDocument|FileName=mcu-unit.SchDoc|SheetNumber= 
-Record=NoMainPathDocument|SourceDocument=mcu-unit.SchDoc|FileName=power-supply.SchDoc|SheetNumber= 
-Record=NoMainPathDocument|SourceDocument=mcu-unit.SchDoc|FileName=schematic.SchDoc|SheetNumber= 
+Record=TopLevelDocument|FileName=power-supply.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=power-supply.SchDoc|FileName=schematic.SchDoc|SheetNumber= 
